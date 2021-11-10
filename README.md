@@ -27,6 +27,11 @@
 
 
 
+## Demo
+Live demo [_here_](https://clever-jennings-193293.netlify.app/).
+
+
+
 ## Setup
 The dependencies which are necessary to run this app can be found in the package.json file.
 
@@ -51,6 +56,7 @@ in your terminal and visit localhost:3000 in your browser.
 ## Learnings
 - Using an API in React
 - How to setup two way data binding in React
+- Hiding API keys in React applications using environment variables and netlify functions
 
 
 
